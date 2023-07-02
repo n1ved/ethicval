@@ -39,7 +39,7 @@ export default () => {
       <Features
         subheading={<Subheading>Our Values</Subheading>}
         heading="We follow these."
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        description="Lorem ips dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         cards={[
           {
             imageSrc: SupportIconImage,
@@ -59,7 +59,7 @@ export default () => {
         ]}
         linkText=""
       />
-      <TeamCardGrid 
+      <TeamCardGrid
         subheading={<Subheading>Our Team</Subheading>}
       />
       <Footer />
