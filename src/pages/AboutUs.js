@@ -49,7 +49,7 @@ export default () => {
           {
             imageSrc: ShieldIconImage,
             title: "Strong Teams",
-            description: "Lorem ipsum donor amet siti ceali placeholder text alipiscing elit sed do eiusmod temport"
+            description: "Lorem ipsum d amet siti ceali placeholder text alipiscing elit sed do eiusmod temport"
           },
           {
             imageSrc: CustomerLoveIconImage,
