@@ -119,7 +119,7 @@ export default function App() {
           {/* <Route path="/components/:type/:subtype/:name" element={<ComponentRenderer />} /> */}
           {/* <Route path="/components/:type/:name" element={<ComponentRenderer />} /> */}
           {/* <Route path="/thank-you" element={<ThankYouPage />} /> */}
-          <Route path="/" element={<AgencyLandingPage />} />
+          <Route exact path="/" element={<AgencyLandingPage />} />
         </Routes>
       </Router>
     </>
