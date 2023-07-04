@@ -104,27 +104,26 @@ import AgencyLandingPage from "demos/AgencyLandingPage.js";
 // import MainLandingPage from "MainLandingPage.js";
 // import ThankYouPage from "ThankYouPage.js";
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-export default function App() {
-  // If you want to disable the animation just use the disabled `prop` like below on your page's component
-  // return <AnimationRevealPage disabled>xxxxxxxxxx</AnimationRevealPage>;
+// export default function App() {
+//   // If you want to disable the animation just use the disabled `prop` like below on your page's component
+//   // return <AnimationRevealPage disabled>xxxxxxxxxx</AnimationRevealPage>;
 
 
-  return (
-    <>
-      <GlobalStyles />
-      <Router>
-        <Routes>
-          {/* <Route path="/components/:type/:subtype/:name" element={<ComponentRenderer />} /> */}
-          {/* <Route path="/components/:type/:name" element={<ComponentRenderer />} /> */}
-          {/* <Route path="/thank-you" element={<ThankYouPage />} /> */}
-          <Route exact path="/" element={<AgencyLandingPage />} />
-        </Routes>
-      </Router>
-    </>
-  );
-}
+//   return (
+//     <>
+//       <GlobalStyles />
+//       <Router>
+//         <Routes>
+//           {/* <Route path="/components/:type/:subtype/:name" element={<ComponentRenderer />} /> */}
+//           {/* <Route path="/components/:type/:name" element={<ComponentRenderer />} /> */}
+//           {/* <Route path="/thank-you" element={<ThankYouPage />} /> */}
+//           <Route exact path="/" element={<AgencyLandingPage />} />
+//         </Routes>
+//       </Router>
+//     </>
+//   );
+// }
 
 // export default EventLandingPage;
 // export default HotelTravelLandingPage;
