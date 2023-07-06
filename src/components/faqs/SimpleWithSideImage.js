@@ -52,24 +52,24 @@ export default ({
    */
   const defaultFaqs = [
     {
-      question: "Is lunch provided free of cost ?",
+      question: "Do you offer ongoing IT support after the completion of a project?",
       answer:
-        "Yes, it is, if you have a membership with us. Otherwise it is charged as per the menu. Some limits do apply as to how much items can be included in your lunch. This limit is enough for any one person and merely exists to discourage abusal of the system."
+        "Yes"
     },
     {
-      question: "Do you have 2 Bedroom suites ?",
+      question: "Do you offer training or knowledge transfer to our internal IT team?",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Yes we will train people that are not upskilled"
     },
     {
-      question: "Are Wi-Fi costs included in the price ?",
+      question: "Can you help with website redesign or improvement of an existing site?",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Yes"
     },
     {
-      question: "Where can I reach you for support ?",
+      question: "What is the typical timeline for a UI/UX consultancy engagement?",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Lifetime"
     }
   ];
 
